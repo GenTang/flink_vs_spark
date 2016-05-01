@@ -3,9 +3,6 @@ package test
 import kafka.producer.ProducerConfig
 import java.util.Properties
 import kafka.producer.Producer
-import kafka.producer.Producer
-import kafka.producer.Producer
-import kafka.producer.Producer
 import kafka.producer.KeyedMessage
 import java.util.Date
 
